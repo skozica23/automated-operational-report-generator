@@ -1,0 +1,20 @@
+=== OPERATIONAL REPORT ===
+
+Total Shipments: 12000
+Total Emissions: 863931.12
+Average Emissions: 71.99
+Average Distance: 102.85
+
+=== HIGH EMISSION ANOMALIES ===
+
+   Transaction_ID Vehicle_Type  Distance_KM  Carbon_Emission_kgCO2e  Emission_per_KM
+4    TRX-D0CFAF87  Heavy Truck        156.5                 128.004         0.817917
+9    TRX-B1372202  Heavy Truck        304.5                 349.980         1.149360
+12   TRX-2027647B  Heavy Truck        488.1                 605.328         1.240172
+13   TRX-05C24316  Heavy Truck        661.8                 686.441         1.037233
+15   TRX-97AA4B35  Heavy Truck        748.4                 688.370         0.919789
+21   TRX-0BB1353B  Heavy Truck        275.7                 228.001         0.826989
+22   TRX-E2A4E5CE  Heavy Truck        659.9                 522.458         0.791723
+25   TRX-0E8FDACD  Heavy Truck        772.5                 911.440         1.179858
+28   TRX-E1715FD9  Heavy Truck        564.7                 730.718         1.293993
+36   TRX-5B81A32C  Heavy Truck        655.6                 592.478         0.903719
